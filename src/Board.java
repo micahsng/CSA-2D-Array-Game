@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class GUI {
+public class Board {
     private Grid<T> gr;
     private Set<String> occupantClassNames;
     private Set<String> gridClassNames;
