@@ -62,33 +62,6 @@ public class Board {
         repaint();
     }
 
-    /**
-     * Sets the message to be displayed in the world frame above the grid.
-     * @param newMessage the new message
-     */
-    public void setMessage(String newMessage)
-    {
-        message = newMessage;
-        repaint();
-    }
-
-    /**
-     * Gets the message to be displayed in the world frame above the grid.
-     * @return the message
-     */
-    public String getMessage()
-    {
-        return message;
-    }
-
-    /**
-     * This method is called when the user clicks on the step button, or when
-     * run mode has been activated by clicking the run button.
-     */
-    public void step()
-    {
-        repaint();
-    }
 
     /**
      * This method is called when the user clicks on a location in the
