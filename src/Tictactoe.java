@@ -15,9 +15,9 @@ public class Tictactoe{
      }
      }
      System.out.println("  A   B   C");
-     System.out.println("1");**/
+     System.out.println(    "1");**/
     private Tictactoe(){
-        
+
     }
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);

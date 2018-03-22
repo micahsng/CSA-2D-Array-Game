@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdf87639-3240-42de-abf6-c4e9b8df05d5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/CSA-2D-Array-Game/Board.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CSA-2D-Array-Game/Connect4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CSA-2D-Array-Game/GUI.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CSA-2D-Array-Game/Score.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CSA-2D-Array-Game/Tictactoe.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Connect3.java" afterPath="$PROJECT_DIR$/src/Connect3.java" />
       <change beforePath="$PROJECT_DIR$/src/Tictactoe.java" afterPath="$PROJECT_DIR$/src/Tictactoe.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,8 +17,8 @@
       <file leaf-file-name="Tictactoe.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Tictactoe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="357">
+              <caret line="17" column="33" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="17" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -310,7 +304,7 @@
       <workItem from="1521612292024" duration="5642000" />
       <workItem from="1521649269516" duration="3036000" />
       <workItem from="1521685332779" duration="198000" />
-      <workItem from="1521687164335" duration="5181000" />
+      <workItem from="1521687164335" duration="8037000" />
     </task>
     <task id="LOCAL-00001" summary="beanis">
       <created>1521051878924</created>
@@ -323,7 +317,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25740000" />
+    <option name="totallyTimeSpent" value="28596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -335,9 +329,9 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -651,8 +645,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tictactoe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="357">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="17" selection-end-column="33" />
           <folding />
         </state>
       </provider>
