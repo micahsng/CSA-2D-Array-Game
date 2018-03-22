@@ -1,27 +1,27 @@
 import java.util.Scanner;
 
 public class Tictactoe{
-    public int[] column = new int[3];
-    public int[] row = new int[3];
-
+    public String[][] grid = new String[3][3];
+    private int choice;
+    /**boolean validInput = false;
+     while (validInput == false){
+     System.out.println("(1) Player or (2) Player?");
+     int playerChoice = reader.nextInt();
+     if(playerChoice == 1){
+     validInput = true;
+     }
+     else if(playerChoice == 2){
+     validInput = true;
+     }
+     }
+     System.out.println("  A   B   C");
+     System.out.println("1");**/
     private Tictactoe(){
-
+        
     }
     public static void main(String[] args) {
-        /**boolean validInput = false;
-        while (validInput == false){
-            Scanner reader = new Scanner(System.in);
-            System.out.println("(1) Player or (2) Player?");
-            int playerChoice = reader.nextInt();
-            reader.close();
-            if(playerChoice == 1){
-                validInput = true;
-            }
-            else if(playerChoice == 2){
-                validInput = true;
-            }
-        }**/
-        System.out.println("  A   B   C");
-        System.out.println("1");
+        Scanner reader = new Scanner(System.in);
+        int choice = reader.nextInt();
+        reader.close();
     }
 }

@@ -2,7 +2,6 @@ import javax.swing.*;
 import java.awt.*;
 
 public class Connect3 extends JFrame{
-    public static GUI ui;
     public int[] column = new int[3];
     public int[] row = new int[3];
 
