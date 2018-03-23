@@ -61,19 +61,19 @@ public class Tictactoe{
         grid[2][2] = "-";
         win = false;
         while(win == false){
-            System.out.println("What column do want to put the piece in? Select a number from 1-3.");
+            System.out.println("What column do want to put the piece in? Select a number from 0-2.");
             Scanner reader = new Scanner(System.in);
             column = reader.nextInt();
-            System.out.println("What row do want to put the piece in? Select a number from 1-3.");
+            System.out.println("What row do want to put the piece in? Select a number from 0-2.");
             row = reader.nextInt();
             grid[row][column] = "X";
             System.out.println("   0  1  2");
             System.out.println("0  " + grid[0][0] + "  " + grid[0][1] + "  " + grid[0][2]);
             System.out.println("1  " + grid[1][0] + "  " + grid[1][1] + "  " + grid[1][2]);
             System.out.println("2  " + grid[2][0] + "  " + grid[2][1] + "  " + grid[2][2]);
-            System.out.println("What column do want to put the piece in? Select a number from 1-3.");
+            System.out.println("What column do want to put the piece in? Select a number from 0-2.");
             column = reader.nextInt();
-            System.out.println("What row do want to put the piece in? Select a number from 1-3.");
+            System.out.println("What row do want to put the piece in? Select a number from 0-2.");
             row = reader.nextInt();
             grid[row][column] = "O";
             System.out.println("   0  1  2");
